@@ -16,9 +16,6 @@
 
    const { items }  = Categories();
 
-   
-  console.log(items);
- 
 </script>
 
 <style scoped>
